@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Qo8rsVz804DkbSCLo+CuAm02NsPtZHVC8Mi9WHkT58L+VSoe/OWCXe4X+fh1zN2sNAQJ9UkbZj+XTXmYyr5nCA==",
+  "dgSpecHash": "HRmEqwquigMf5zlTtBXWhEveNIg/sz+B2qy91baglk/QjOXbFUAi7IzxcOdo4+T4ZFDxCLF2jL09ekOnH1QWlA==",
   "success": true,
   "projectFilePath": "F:\\Programacion\\Csharp\\ConsoleGame\\ConsoleGame.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.app\\2.1.18\\microsoft.netcore.app.2.1.18.nupkg.sha512",
+    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.18\\microsoft.netcore.dotnetapphost.2.1.18.nupkg.sha512",
+    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.18\\microsoft.netcore.dotnethostpolicy.2.1.18.nupkg.sha512",
+    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.18\\microsoft.netcore.dotnethostresolver.2.1.18.nupkg.sha512",
+    "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.10\\microsoft.netcore.platforms.2.1.10.nupkg.sha512",
     "C:\\Users\\Deep Marian\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
     "C:\\Users\\Deep Marian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],

@@ -1,0 +1,12 @@
+F:\Programacion\Csharp\ConsoleGame\bin\Debug\netcoreapp2.1.18\ConsoleGame.deps.json
+F:\Programacion\Csharp\ConsoleGame\bin\Debug\netcoreapp2.1.18\ConsoleGame.runtimeconfig.json
+F:\Programacion\Csharp\ConsoleGame\bin\Debug\netcoreapp2.1.18\ConsoleGame.runtimeconfig.dev.json
+F:\Programacion\Csharp\ConsoleGame\bin\Debug\netcoreapp2.1.18\ConsoleGame.dll
+F:\Programacion\Csharp\ConsoleGame\bin\Debug\netcoreapp2.1.18\ConsoleGame.pdb
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.csprojAssemblyReference.cache
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.AssemblyInfoInputs.cache
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.AssemblyInfo.cs
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.csproj.CoreCompileInputs.cache
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.dll
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.pdb
+F:\Programacion\Csharp\ConsoleGame\obj\Debug\netcoreapp2.1.18\ConsoleGame.genruntimeconfig.cache

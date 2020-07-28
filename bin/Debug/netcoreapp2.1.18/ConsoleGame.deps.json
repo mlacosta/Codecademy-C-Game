@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1.18",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1.18": {
+      "ConsoleGame/1.0.0": {
+        "runtime": {
+          "ConsoleGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
